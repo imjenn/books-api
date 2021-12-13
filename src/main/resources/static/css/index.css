@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+}
+
+div {
+	margin-top: 3em;
+} 
+
+.table {
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.btn {
+	margin-bottom: 20px;
+}
+
+a {
+	margin-top: 10px;
+}

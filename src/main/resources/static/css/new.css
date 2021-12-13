@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+}
+
+form {
+	width: 50em;
+	margin: 0 auto;
+	border: 1px solid lightgrey;
+	padding: 5em;
+	box-shadow: 10px 10px 10px 5px lightgrey;
+}
+
+div {
+	margin: 1em 0;
+}
+
+.btn {
+	display: flex;
+	margin: 0 auto;
+}
